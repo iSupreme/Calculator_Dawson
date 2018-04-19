@@ -1,0 +1,4 @@
+﻿  Calculator_Dawson.cpp
+c:\users\pengyanbo\source\repos\calculator_dawson\calculator_dawson\calculator.h(273): warning C4715: “Expression::opera”: 不是所有的控件路径都返回值
+c:\users\pengyanbo\source\repos\calculator_dawson\calculator_dawson\calculator.h(290): warning C4715: “Expression::compareOpe”: 不是所有的控件路径都返回值
+  Calculator_Dawson.vcxproj -> C:\Users\pengyanbo\source\repos\Calculator_Dawson\Debug\Calculator_Dawson.exe
